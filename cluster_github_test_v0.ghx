@@ -253,14 +253,14 @@
                         <item name="MarginLeft" type_name="gh_int32" type_code="3">0</item>
                         <item name="MarginRight" type_name="gh_int32" type_code="3">0</item>
                         <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                          <X>362.5805</X>
-                          <Y>347.963</Y>
+                          <X>156.2487</X>
+                          <Y>498.0371</Y>
                         </item>
                         <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                          <X>362</X>
-                          <Y>347</Y>
-                          <W>53</W>
-                          <H>26</H>
+                          <X>156</X>
+                          <Y>498</Y>
+                          <W>114</W>
+                          <H>55</H>
                         </item>
                       </items>
                     </chunk>
@@ -633,7 +633,7 @@ GUID###COLOR</item>
                   </items>
                   <chunks count="1">
                     <chunk name="Attributes">
-                      <items count="6">
+                      <items count="5">
                         <item name="CustomBackColour" type_name="gh_drawing_color" type_code="36">
                           <ARGB>255;255;250;90</ARGB>
                         </item>
@@ -646,7 +646,6 @@ GUID###COLOR</item>
                           <W>160</W>
                           <H>100</H>
                         </item>
-                        <item name="Selected" type_name="gh_bool" type_code="1">true</item>
                       </items>
                     </chunk>
                   </chunks>
