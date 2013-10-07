@@ -90,17 +90,18 @@
                   </items>
                   <chunks count="1">
                     <chunk name="Attributes">
-                      <items count="2">
+                      <items count="3">
                         <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                          <X>384.3749</X>
-                          <Y>325.0001</Y>
+                          <X>392.3749</X>
+                          <Y>304.0001</Y>
                         </item>
                         <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                          <X>359</X>
-                          <Y>315</Y>
+                          <X>367</X>
+                          <Y>294</Y>
                           <W>50</W>
                           <H>20</H>
                         </item>
+                        <item name="Selected" type_name="gh_bool" type_code="1">true</item>
                       </items>
                     </chunk>
                   </chunks>
